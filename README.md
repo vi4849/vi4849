@@ -7,12 +7,12 @@
   Feel free to reach out!
 </h3>
 
-<!--- 📈 GitHub Stats--->
+<!--- 📈 GitHub Stats --->
 
 <!---[![Vivian’s github stats](https://github-readme-stats.vercel.app/api?username=viviancodes1)](https://github.com/viviancodes1)--->
 
 
 
-<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viviancodes1&layout=compact)](https://github.com/viviancodes1)--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vi4849&layout=compact)](https://github.com/vi4849)
 
 
