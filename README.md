@@ -3,7 +3,7 @@
 </h2>
 
 <p>
-  I'm studing CS @ UVA with an expected graduation date of May 2026. 
+  I'm a student currently studying CS at the University of Virginia. 
 </p>
 
 <h2>
