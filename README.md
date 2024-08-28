@@ -3,8 +3,7 @@
 </h2>
 
 <p>
-  I'm a student, researcher, and developer.
-  Feel free to reach out!
+  I'm studing CS @ UVA with an expected graduation date of May 2026. 
 </p>
 
 <h2>
