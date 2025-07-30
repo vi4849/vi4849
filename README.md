@@ -3,7 +3,7 @@
 </h2>
 
 <p>
-  I'm a student currently studying CS at the University of Virginia. 
+  I'm a student currently studying CS at the University of Virginia. Feel free to contact me at wvw4we@virginia.edu.
 </p>
 
 <!--
